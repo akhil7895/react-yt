@@ -1,0 +1,12 @@
+import React from 'react'
+
+const sections2 = () => {
+  return (
+    <div className='h-screen w-full bg-green-950'>
+        Section2 
+      
+    </div>
+  )
+}
+
+export default sections2
