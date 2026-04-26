@@ -1,0 +1,25 @@
+form{
+  background: red;
+  width: fit-content;
+  height: 200px;
+  margin: 20px;
+
+}
+form input{
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+}
+form button{
+  width: 100px;
+  height: 30px;
+  margin: 20px 30%;
+
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

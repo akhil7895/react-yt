@@ -1,0 +1,28 @@
+h1{
+  background-color: aquamarine;
+  color: red;
+}
+
+.box{
+  height: 200px;
+  width: 200px;
+  background: red;
+  margin: 20px;
+  padding: 30px;
+}
+
+.page1{
+  height: 100vh;
+  width: 100%;
+  background: #111;
+}
+.page2{
+  height: 100vh;
+  width: 100%;
+  background: #222;
+}
+.page3{
+  height: 100vh;
+  width: 100%;
+  background: #333;
+}
