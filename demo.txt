@@ -1,0 +1,25 @@
+
+git add .
+git commit -m "Notes app completed "
+git push -u origin main
+
+
+git add .
+git commit -m "Notes demo checking "
+git push -u origin main
+
+
+git add .
+git commit -m ""
+git push -u origin main
+
+git add .
+git commit -m ""
+git push -u origin main
+
+git add . 
+git commit -m ""
+git push origin main
+
+
+what is mounting
